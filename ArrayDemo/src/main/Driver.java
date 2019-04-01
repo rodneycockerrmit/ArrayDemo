@@ -9,7 +9,9 @@ public class Driver {
 		System.out.println(manager.findDog("Thai"));
 		System.out.println(manager.findDog("Cain"));
 		System.out.println(manager.findDog("Henry"));
-
+		System.out.println(manager.findDog("Henry"));
+		System.out.println(manager.findDog("Henry"));
+		System.out.println(manager.findDog("Henry"));
 	}
 
 }
